@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Cheryl**. I am a second year Computer Science student who experiment with random projects from time to time.
+My name is **Cheryl**. I am a third year Computer Science student who experiment with random projects from time to time.
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
