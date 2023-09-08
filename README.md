@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Cheryl**. I am a third year Computer Science student who experiment with random projects from time to time.
 
-- 🌱 I’m currently learning **Typescript and React Native**
+- 🌱 I’m currently learning **Vue JS and Laravel**
 
 - 📫 Reach me via **cheryltqr2907@gmail.com** for any freelance work/inquiries
 
