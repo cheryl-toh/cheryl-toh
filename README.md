@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is **Cheryl**. I am a third year Computer Science student who experiment with random projects from time to time.
+My name is **Cheryl**. I am a Computer Science fresh graduate who experiment with random projects from time to time.
 
-- 🌱 I’m currently working at Newswav as a **Part Time Fullstack Software Engineer**
+- 🌱 I am working on Phase 2 of my desk companion bot - Pyxi
+  
+- 💻 I’m currently working at Newswav as a **Part Time Fullstack Software Engineer**
 
 - 📫 Reach me via **cheryltqr2907@gmail.com** for any freelance work/inquiries
 
