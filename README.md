@@ -3,7 +3,7 @@ My name is **Cheryl**. I am a Computer Science fresh graduate who experiment wit
 
 - 🌱 I am working on Phase 2 of my desk companion bot - Pyxi
   
-- 💻 I’m currently working at Newswav as a **Part Time Fullstack Software Engineer**
+- 💻 I’m currently working at Newswav as a **Junior Fullstack Software Engineer**
 
 - 📫 Reach me via **cheryltqr2907@gmail.com** for any freelance work/inquiries
 
